@@ -16,6 +16,15 @@ I Haven't Made Any Releases Yet Because The Project Is Still In The Development 
 
 (This Project Is Only Made For Fun)
 
-# Why Is This Project Not On itch.io?
+## Why Is This Project Not On itch.io?
 
 I Put This Project On Github And Not itch.io Because For Early Access Releases It Won't Be Easy To Update The itch.io Project Will Come Out When The Game Is Released. You Can Still Find The Original Cancelled Project On itch.io (https://tsubasagames.itch.io/windows12se)
+
+## More Details
+
+The Project's Normal Menu Is Small Like The Original Windows 11 SE But Apps Will Be Wider.
+
+## Credits
+
+- TsubasaGames (TSG)
+- Galaxy Productions
