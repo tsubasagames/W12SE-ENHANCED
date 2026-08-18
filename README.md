@@ -15,7 +15,3 @@ The Original Windows 12 SE Project Went Bad And Unusable, Its Still Available On
 I Haven't Made Any Releases Yet Because The Project Is Still In The Development Stage.
 
 (This Project Is Only Made For Fun)
-
-## Details
-
-This Project Is Not Part Of Galaxy Productions It's By The Original Creator, Me. This Project Is Just A Solo Project That Im Doing Without Any Help.
