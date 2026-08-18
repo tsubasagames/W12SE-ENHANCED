@@ -15,3 +15,7 @@ The Original Windows 12 SE Project Went Bad And Unusable, Its Still Available On
 I Haven't Made Any Releases Yet Because The Project Is Still In The Development Stage.
 
 (This Project Is Only Made For Fun)
+
+# Why Is This Project Not On itch.io?
+
+I Put This Project On Github And Not itch.io Because For Early Access Releases It Won't Be Easy To Update The itch.io Project Will Come Out When The Game Is Released. You Can Still Find The Original Cancelled Project On itch.io (https://tsubasagames.itch.io/windows12se)
