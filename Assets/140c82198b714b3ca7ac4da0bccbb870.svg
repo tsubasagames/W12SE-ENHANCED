@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 480 360" height="360" width="480">
+<rect fill-opacity="0.05" fill="#262626" rx="5" height="36" width="36" y="50" x="434"></rect>
+<path stroke-linejoin="round" stroke-linecap="round" stroke="#CCCCCC" d="M453.5 60.5H446.5C445.395 60.5 444.5 61.3954 444.5 62.5V69.5C444.5 70.6046 445.395 71.5 446.5 71.5H453.5C454.605 71.5 455.5 70.6046 455.5 69.5V62.5C455.5 61.3954 454.605 60.5 453.5 60.5Z"></path>
+<path stroke-linejoin="round" stroke-linecap="round" stroke="#4CC2FF" d="M457.5 64.5V64.5C458.605 64.5 459.5 65.3954 459.5 66.5L459.5 73.5C459.5 74.6046 458.605 75.5 457.5 75.5L450.5 75.5C449.395 75.5 448.5 74.6046 448.5 73.5V73.5"></path>
+<rect fill-opacity="0.05" fill="#262626" rx="5" height="36" width="36" y="50" x="388"></rect>
+<path stroke-linejoin="round" stroke-linecap="round" stroke="#4CC2FF" d="M407.5 60.5H400.5C399.395 60.5 398.5 61.3954 398.5 62.5V69.5C398.5 70.6046 399.395 71.5 400.5 71.5H407.5C408.605 71.5 409.5 70.6046 409.5 69.5V62.5C409.5 61.3954 408.605 60.5 407.5 60.5Z"></path>
+<path stroke-linejoin="round" stroke-linecap="round" stroke="#CCCCCC" d="M411.5 64.5V64.5C412.605 64.5 413.5 65.3954 413.5 66.5L413.5 73.5C413.5 74.6046 412.605 75.5 411.5 75.5L404.5 75.5C403.395 75.5 402.5 74.6046 402.5 73.5V73.5"></path>
+</svg>

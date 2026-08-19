@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 30 30" height="30" width="30">
+<mask fill="white" id="path-1-inside-1_639_404">
+<path d="M9 9C9 7.89543 9.89543 7 11 7H19C20.1046 7 21 7.89543 21 9V21C21 22.1046 20.1046 23 19 23H11C9.89543 23 9 22.1046 9 21V9Z"></path>
+</mask>
+<path fill="url(#paint0_linear_639_404)" d="M9 9C9 7.89543 9.89543 7 11 7H19C20.1046 7 21 7.89543 21 9V21C21 22.1046 20.1046 23 19 23H11C9.89543 23 9 22.1046 9 21V9Z"></path>
+<path mask="url(#path-1-inside-1_639_404)" fill-opacity="0.25" fill="white" d="M9 9C9 7.34315 10.3431 6 12 6H18C19.6569 6 21 7.34315 21 9C21 8.44772 20.1046 8 19 8H11C9.89543 8 9 8.44772 9 9ZM21 23H9H21ZM9 23V7V23ZM21 7V23V7Z"></path>
+<rect fill="#D9D9D9" rx="0.5" height="1" width="4" y="11" x="11"></rect>
+<rect fill="#D9D9D9" rx="0.5" height="1" width="4" y="13" x="11"></rect>
+<rect fill="#D9D9D9" rx="0.5" height="1" width="8" y="15" x="11"></rect>
+<rect fill="#D9D9D9" rx="0.5" height="3" width="3" y="11" x="16"></rect>
+<rect fill="#D9D9D9" rx="0.5" height="1" width="8" y="17" x="11"></rect>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" y2="23" x2="21" y1="7" x1="9" id="paint0_linear_639_404">
+<stop stop-color="#B3C4D5"></stop>
+<stop stop-color="#6D8AA8" offset="1"></stop>
+</linearGradient>
+</defs>
+</svg>

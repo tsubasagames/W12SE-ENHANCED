@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 200 200" height="200" width="200">
+<path fill="#69212D" d="M128 28L133 29V89L128 88V28Z"></path>
+<path fill="#3E141E" d="M135 25L133 29V89L135 85V25Z"></path>
+<path fill="#999BCE" d="M128 76L133 77V81L128 80V76Z"></path>
+<path fill="#999BCE" d="M128 64L133 65V69L128 68V64Z"></path>
+<path fill="#999BCE" d="M128 52L133 53V57L128 56V52Z"></path>
+<path fill="#999BCE" d="M128 40L133 41V45L128 44V40Z"></path>
+<path fill="#999BCE" d="M128 28L133 29V33L128 32V28Z"></path>
+<path fill="#5A5C8F" d="M135 73L133 77V81L135 77V73Z"></path>
+<path fill="#5A5C8F" d="M135 61L133 65V69L135 65V61Z"></path>
+<path fill="#5A5C8F" d="M135 49L133 53V57L135 53V49Z"></path>
+<path fill="#5A5C8F" d="M135 37L133 41V45L135 41V37Z"></path>
+<path fill="#5A5C8F" d="M135 25L133 29V33L135 29V25Z"></path>
+<path fill="url(#paint0_linear_89_431)" d="M128 40L133 41L135 37V85L133 89L128 88V40Z"></path>
+<path fill="white" d="M130 24L135 25L133 29L128 28L130 24Z"></path>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" y2="89" x2="131.5" y1="37" x1="131.5" id="paint0_linear_89_431">
+<stop stop-opacity="0.6" stop-color="#FF0000"></stop>
+<stop stop-opacity="0" stop-color="#FF0000" offset="1"></stop>
+</linearGradient>
+</defs>
+</svg>

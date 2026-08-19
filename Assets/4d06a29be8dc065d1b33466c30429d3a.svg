@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 480 360" height="360" width="480">
+<path fill-opacity="0.9" fill="#E6E6E6" d="M10 20C10 14.4771 14.4772 10 20 10H460C465.523 10 470 14.4772 470 20V280C470 285.523 465.523 290 460 290H20C14.4772 290 10 285.523 10 280V20Z"></path>
+<path stroke-width="2" stroke-opacity="0.2" stroke="black" d="M460 9H20C13.9249 9 9 13.9249 9 20V280C9 286.075 13.9249 291 20 291H460C466.075 291 471 286.075 471 280V20C471 13.9249 466.075 9 460 9Z"></path>
+<mask fill="black" height="61" width="460" y="229" x="10" maskUnits="userSpaceOnUse" id="path-3-outside-1_412_3">
+<rect height="61" width="460" y="229" x="10" fill="white"></rect>
+<path d="M10 230H470V280C470 285.523 465.523 290 460 290H20C14.4772 290 10 285.523 10 280V230Z"></path>
+</mask>
+<path fill="#E6E6E6" d="M10 230H470V280C470 285.523 465.523 290 460 290H20C14.4772 290 10 285.523 10 280V230Z"></path>
+<path mask="url(#path-3-outside-1_412_3)" fill-opacity="0.1" fill="black" d="M10 229H470V231H10V229ZM470 290H10H470ZM10 290V230V290ZM470 230V290V230Z"></path>
+</svg>
