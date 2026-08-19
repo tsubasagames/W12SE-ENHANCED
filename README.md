@@ -27,5 +27,5 @@ We Are Working On And Taking More Time Because We Lost The Original Project File
 
 ## Credits
 
-- TsubasaGames (TSG)
+- TsubasaGames
 - Galaxy Productions
