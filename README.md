@@ -23,6 +23,7 @@ I Put This Project On Github And Not itch.io Because For Early Access Releases I
 ## More Details
 
 The Project's Normal Menu Is Small Like The Original Windows 11 SE But Apps Will Be Wider.
+We Are Working On And Taking More Time Because We Lost The Original Project Files.
 
 ## Credits
 
